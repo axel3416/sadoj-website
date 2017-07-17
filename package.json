@@ -1,0 +1,18 @@
+{
+  "name": "sadoj",
+  "version": "1.0.0",
+  "description": "GTA 5 Clan Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "jquery": "^3.2.1",
+    "materializecss": "^1.0.11"
+  }
+}
